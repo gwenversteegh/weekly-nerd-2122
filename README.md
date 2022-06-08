@@ -27,5 +27,5 @@
 
 
 
-
+1. [Cyd Stumpel](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/Weekly%20nerd%201%20Cyd%20Stumpel)
 
