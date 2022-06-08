@@ -27,5 +27,13 @@
 
 
 
-1. [Cyd Stumpel](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/Weekly%20nerd%201%20Cyd%20Stumpel)
+1. [Cyd Stumpel](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/weekly%20nerds/1.CydStumpel.md)
+2. [Alvara Montoro](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/weekly%20nerds/2.AlvaraMontoro.md)
+3. [Fenna de Wilde](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/weekly%20nerds/3.FennadeWilde.md)
+4. [Krijn Hoetmer](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/weekly%20nerds/4.KrijnHoetmer.md)
+5. [Vitaly Friedman](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/weekly%20nerds/5.VitalyFriedman.md)
+6. [Canel](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/weekly%20nerds/6.Chanel.md)
+7. [Léonie Watson](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/weekly%20nerds/7.LéonieWatson.md)
+8. [Rian Rietveld](https://github.com/gwenversteegh/weekly-nerd-2122/blob/master/weekly%20nerds/8.RianRietveld.md)
+
 
