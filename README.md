@@ -36,7 +36,7 @@ TypeScript adds additional syntax to JavaScript to support a tighter integration
 
 ### Examples 
 <img width="917" alt="Screenshot 2022-06-19 at 21 06 36" src="https://user-images.githubusercontent.com/70900763/174496647-ff6489b7-fae3-4452-8ff2-5580d9c6902b.png">
-![fixed-types](https://user-images.githubusercontent.com/70900763/174496737-32582c63-1dd4-4cde-9bac-5b1834b93cd2.jpeg)
+<img width="1081" alt="Screenshot 2022-06-19 at 21 19 53" src="https://user-images.githubusercontent.com/70900763/174497069-d0be79c0-b7bd-45e3-bbdd-1f831b490f9e.png">
 
 
 #### Bronnen
@@ -48,12 +48,26 @@ https://www.w3schools.com/typescript/typescript_intro.php
 ## Cascade layers
 
 ### What are Cascade layers?
-Cascading layers is a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity hacks or !important. This allows us to override styles from elsewhere in our code (or a third-party tool)
+Cascading layers is a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity hacks or !important. This allows us to override styles from elsewhere in our code (or a third-party tool).
+
 <img width="568" alt="Screenshot 2022-06-19 at 21 17 28" src="https://user-images.githubusercontent.com/70900763/174496990-5940bf1f-ec1a-4f67-95de-079921e8ba39.png">
 
 ### Examples
 <img width="761" alt="Screenshot 2022-06-19 at 21 18 25" src="https://user-images.githubusercontent.com/70900763/174497011-c23da935-e78e-4e2b-8d10-cebbe9bb92b8.png">
+<img width="579" alt="Screenshot 2022-06-19 at 21 20 38" src="https://user-images.githubusercontent.com/70900763/174497095-4c41a8eb-aec1-4382-80c3-68b160591911.png">
 
 #### Bronnen
 https://css-tricks.com/css-cascade-layers/ 
+
 ## SASS
+### What is SASS?
+Sass stands for Syntactically Awesome Stylesheet. It's an extension to CSS. Sass is a CSS pre-processor and is completely compatible with all versions of CSS.It reduces repetition of CSS and therefore saves time. Stylesheets are getting larger, more complex, and harder to maintain. This is where a CSS pre-processor can help. Sass lets you use features that do not exist in CSS, like variables, nested rules, mixins, imports, inheritance, built-in functions, and other stuff.
+
+A browser does not understand Sass code. Therefore, you will need a Sass pre-processor to convert Sass code into standard CSS. This process is called transpiling. So, you need to give a transpiler (some kind of program) some Sass code and then get some CSS code back.
+
+### Examples
+<img width="428" alt="Screenshot 2022-06-19 at 21 54 31" src="https://user-images.githubusercontent.com/70900763/174498147-620c871f-6bb2-453e-8e3b-f6a4c5b7cf89.png">
+
+### Bronnen
+https://sass-lang.com 
+https://www.w3schools.com/sass/sass_intro.php 
