@@ -69,9 +69,18 @@ Tips to help them
 
 # Weekly Mingles
 ## Dept
+I thought dept was the best company we've been to. The atmosphere was very nice and it is a very nice building. A bit difficult to reach by public transport. Dept is a digital agency that actually does everything that has to do with the web. They have design as well as front-end and back-end. At dept we received a presentation about the projects they do there and about how working and doing an internship at dept are like. They also showed a video that they make every year and she explained something about react.
+
 ## Voorhoede
+The feed guard didn't appeal to me from the start, to be quite honest. I don't know why but that was just my feeling. In the end it was an interesting presentation and they made us wiser again. We talked about atoms, molecules and organs within a website. For example, an atom is just a button. A molecule is the search bar and the button and the organ is the entire navigation. We also got an assignment, we got websites printed and we had to divide everything.
+
 ## Build in Amsterdam
+After battling in the rain, we finally arrived at build in amsterdam. It was quite a small office, but cozy. First he showed some projects they were working on, the coolest I thought was mammut. Then he also did a live code session. in this he showed us how you can make an image in an element move up on scroll. It was very interesting and educational.
+
 ## Label A
+En dan de laatste, label A. Dit was ook een hele leuke presentatie en ook erg leerzaam. Na een korte rondleiding hebben we een mini cursus typescript gehad. Ze hadden wat opdrachtjes klaar gemaakt en deze hebben we met zijn alle gemaakt. Na de zomer gaat Label A naar een groter pand, ze blijven dus niet op deze locatie. Hier een linkje naar de opdrachten die we hebben gedaan. 
+
+https://github.com/gwenversteegh/weekly-mingle-typescript-workshop 
 
 # Artikelen
 ## Typescript
