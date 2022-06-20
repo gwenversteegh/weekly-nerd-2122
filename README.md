@@ -3,23 +3,68 @@
 
 # Weekly nerds
 ## Cyd stumpel
+Things most designers forget.
+
+• Accessibility, like icons
+• Responsive Design, there is something between desktop and a mobile
+• Forms
+• Micro interactions
+• Data
 
 ## Alvaro montoro
 <img width="584" alt="Screenshot 2022-06-19 at 20 49 28" src="https://user-images.githubusercontent.com/70900763/174496036-c5762bd3-c291-4f12-b959-90d2cefde431.png">
 
 ## Fenna de Wilde
+focuses on accessibility.
 
 ## Krijn Hoetmer
+Frontender 
+found a problem → During games, counting manualy isn't that easy
+Solution → An electric score board that can be controlled with your phone through a QR-code 
+
+Important lesson: A webapp is never finished. There is always something that can be better.
 
 ## Vitaly Friedman
 <img width="584" alt="Screenshot 2022-06-19 at 20 50 37" src="https://user-images.githubusercontent.com/70900763/174496087-66ede196-e684-4cb4-a223-a3bcf2dbad9a.png">
 
 ## Chanel
+Is a developer at triple in Alkmaar
+
+Some tools she talked about:
+git
+NPM
+vanilla/library/framework 
+react of NEXTjs
+Typescript 
+ES lint
+Prettier 
+Sass 
+Webpack/vit 
+babel
+Azure & Azure Devops 
+pipelines
+
+
 
 ## léonie Watson
 <img width="584" alt="Screenshot 2022-06-19 at 20 51 11" src="https://user-images.githubusercontent.com/70900763/174496115-8b8250a1-17d2-482d-90d7-443fe930b6b0.png">
 
 ## Rian Rietveld
+focuses also on accessibility
+
+disabilities what a lot of people forget:
+→ ADHD
+→ Autism
+→ Dyslexie
+→ Anxiety disorder
+
+
+Tips to help them 
+- consistent navigation & layout
+- Explain icons
+- animations
+- Use headings and paragraphs
+
 
 
 # Weekly Mingles
